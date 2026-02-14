@@ -1,4 +1,4 @@
-> This project is published strictly for **educational and defensive research purposes**. It demonstrates how userland authentication flows can be subverted via dynamic linking abuse. Do **not** deploy this on systems you do not own or have explicit permission to test.
+> This project is published strictly for educational and defensive research purposes. It demonstrates how kernel execution flow can be redirected using ftrace to intercept system calls. Do not deploy this on systems you do not own or have explicit permission to test.
 
 ## Modern Linux Syscall Hooking via Ftrace + Kprobes (PoC)
 
